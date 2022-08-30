@@ -1,6 +1,6 @@
 # ember-toastr
 
-This plugin must not be used anymore, [see EP-688](https://bottomline.atlassian.net/browse/EP-688). The repository is kept to enable building older APKs that require this plugin.
+**This plugin must not be used anymore, [see EP-688](https://bottomline.atlassian.net/browse/EP-688). The repository is kept to enable building older APKs that require this plugin.**
 
 A service wrapper for [toastr.js] with auto injection into routes, components, and controllers.
 
